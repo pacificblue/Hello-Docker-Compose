@@ -1,4 +1,4 @@
 # Hello-Docker-Compose
-try docker compose
+Try docker compose
 
 https://docs.docker.com/compose/gettingstarted/
